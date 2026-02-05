@@ -22,4 +22,4 @@ This is a simple and responsive cafe website created for learning and project pu
 This project was created to practice web development and design a basic cafe website layout.
 
 ## Author
-Your Name
+Priyanshi Varma
